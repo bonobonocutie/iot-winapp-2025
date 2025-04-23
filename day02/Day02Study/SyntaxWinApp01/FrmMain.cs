@@ -34,11 +34,31 @@ namespace SyntaxWinApp01
             double dVal = 3.141592; // double : 8bytes 소수점
             decimal dcVal = 3.141592m; // decimal : 16bytes 소수점
 
-            // 무자형 타입
+            // 문자형 타입
             char ch01 = 'A';
             Console.WriteLine(ch01);
             char ch02 = '\u25b6';
             Console.WriteLine(ch02);
+
+            string str01 = "Hello\0World!"; // \0 : end of line 
+
+            // 불린 타입
+            bool bool01 = true;
+
+            // Nullable
+            //int int02 = null;  // 기본타입(정수형, 실수형, 불린 / 문자열제외)은 NULL 할당불가
+            int? int03 = null; // 기본타입 뒤에 ? 붙여줄 것
+
+            // 상수타입
+            const int int04 = 15; // const를 만나면 상수. 한번 할당후 변경 불가
+            //int04 = 26;
+
+            // 동적타입 // 컴파일되면서 해당 타입으로 형결정
+            var int05 = false;
+            //int05 = "string";
+
+            //MessageBox.Show(intVal2.ToString() + ch01 + ch02, "Variable", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            MessageBox.Show(int03.ToString(), "Variable", MessageBoxButtons.OK, MessageBoxIcon.Warning);
         }
     }
 }
