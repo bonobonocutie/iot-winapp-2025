@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaxWinApp01", "SyntaxWinApp01\SyntaxWinApp01.csproj", "{487B46AC-7525-4827-8EE1-3AB72CB3EBC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinControlsApp", "WinControlsApp\WinControlsApp.csproj", "{8610494B-AA5A-41AE-9F0A-F9836144E9EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487B46AC-7525-4827-8EE1-3AB72CB3EBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487B46AC-7525-4827-8EE1-3AB72CB3EBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487B46AC-7525-4827-8EE1-3AB72CB3EBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487B46AC-7525-4827-8EE1-3AB72CB3EBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8610494B-AA5A-41AE-9F0A-F9836144E9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8610494B-AA5A-41AE-9F0A-F9836144E9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8610494B-AA5A-41AE-9F0A-F9836144E9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8610494B-AA5A-41AE-9F0A-F9836144E9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ECC8F8A-8902-41CE-BB5E-0FFD6E9AD629}
+	EndGlobalSection
+EndGlobal
