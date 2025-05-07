@@ -1011,3 +1011,7 @@ IoT 개발자 C#/WinApp 리포지토리
 ## 10일차
 ## ToyProject - 감정분석 다이어리
 
+
+https://github.com/user-attachments/assets/344bc093-7b30-4b85-b0ba-90c3b349fe65
+
+
