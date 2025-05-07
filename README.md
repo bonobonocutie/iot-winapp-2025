@@ -1007,3 +1007,7 @@ IoT 개발자 C#/WinApp 리포지토리
         <img src='./image/cs22.png'>
         [Light Theme]
         <img src='./image/cs23.png'>
+
+## 10일차
+## ToyProject - 감정분석 다이어리
+
